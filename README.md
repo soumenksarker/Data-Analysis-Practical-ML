@@ -1,1 +1,2 @@
-# Data-Analysis-Pygame-Practical-ML
+# Data-Analysis-Pygame-Tkinter Short Projects
+-Practical-ML
