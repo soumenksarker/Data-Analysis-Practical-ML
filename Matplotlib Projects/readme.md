@@ -1,2 +1,3 @@
-#basic plotting matplotlib using python
+#basic plotting matplotlib 
+
 __here is the [link](https://pythonprogramming.net/matplotlib-intro-tutorial/) link__
